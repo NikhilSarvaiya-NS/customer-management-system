@@ -1,9 +1,5 @@
-================================================
-  CUSTOMER MANAGEMENT SYSTEM v2
-  With Login System + Dashboard
-  Developed by: Sarvaliya Nikhil
-  Internship at: Elivent Digital Content
-================================================
+CUSTOMER MANAGEMENT SYSTEM
+
 
 HOW TO RUN
 ===========
